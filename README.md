@@ -402,6 +402,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[aymericzip/intlayer](https://github.com/aymericzip/intlayer)** - A MCP Server that enhance your IDE with AI-powered assistance for Intlayer i18n / CMS tool: smart CLI access, versioned docs.
 - **[IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp)** - MCP Server for automated reverse engineering with IDA Pro.
 - **[Israel Statistics MCP](https://github.com/reuvenaor/israel-statistics-mcp)** MCP server that provides programmatic access to the Israeli Central Bureau of Statistics (CBS) price indices and economic data.
+- **[J-Dawgs MCP - Human Hands for AIs](https://github.com/joshuajdawg0350/jdawgs-mcp)** - Lets AI agents hire local humans for real-world tasks (Human Hands for AIs): post a task, a verified local worker does it and returns photo proof. Poster sets the price; a flat 15% fee on top is the whole cost; the worker keeps 100% of the price plus tips. Also browses the J-Dawgs AI Tool Store catalog.
 - **[Jean Memory](https://github.com/jonathan-politzki/your-memory)** - Premium memory consistent across all AI applications.
 - **[Jina Reader](https://github.com/wong2/mcp-jina-reader)** - Fetch the content of a remote URL as Markdown with Jina Reader.
 - **[Jira Context MCP](https://github.com/rahulthedevil/Jira-Context-MCP)** - MCP server to provide Jira Tickets information to AI coding agents like Cursor.
